@@ -56,7 +56,7 @@ To download the list of users from the Azure AD admin center, you must be signed
    - postalCode
    - telephoneNumber
    - mobile
-   - authenticationPhoneNumber
+   - authenticationPhoneNumber. My comment:(This data is not pulling out and it needs to be deleted from the list)
    - authenticationAlternativePhoneNumber
    - authenticationEmail
    - alternateEmailAddress
